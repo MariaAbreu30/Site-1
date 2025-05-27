@@ -13,6 +13,11 @@ ul {
 a{
     color: rgb(109, 10, 64);
     text-decoration: none;
-    
+}
 
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid rgb(82, 14, 37);
 }
