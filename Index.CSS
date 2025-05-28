@@ -21,3 +21,11 @@ img{
     border-radius: 50%;
     border: 5px solid rgb(82, 14, 37);
 }
+
+.center{
+    text-align: center;
+}
+
+h1{
+   color: rgb(82, 14, 37);
+}
